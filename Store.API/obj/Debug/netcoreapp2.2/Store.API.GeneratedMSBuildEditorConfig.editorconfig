@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Store.API
+build_property.ProjectDir = C:\_source\Store_v2\Store.API\

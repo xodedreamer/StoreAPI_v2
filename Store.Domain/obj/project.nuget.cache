@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JZLaSJXfVAyi92ABEY4vRNf6dRMKThvP2GqZjy/9BCirLskGqbOA/hCwqU4mViXgPyutVSbmowVZY8oHsjngw==",
+  "success": true,
+  "projectFilePath": "C:\\_source\\StoreAPI\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
